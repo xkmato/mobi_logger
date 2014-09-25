@@ -1,0 +1,15 @@
+Django==1.4.15
+Twisted==11.1.0
+argparse==1.2.1
+cairo==0.5.4
+cffi==0.8.6
+django-tagging==0.3.2
+pycparser==2.10
+python-ldap==2.4.16
+python-memcached==1.53
+sh==1.09
+tagging==0.2.1
+txAMQP==0.6.2
+whisper==0.9.10
+wsgiref==0.1.2
+zope.interface==4.1.1
